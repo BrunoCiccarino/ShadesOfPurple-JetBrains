@@ -11,9 +11,14 @@ repositories {
     mavenCentral()
 }
 
+dependencies {
+    implementation(kotlin("stdlib"))
+    implementation("org.jetbrains:annotations:23.0.0")
+    implementation("org.jetbrains.kotlin:kotlin-scripting-compiler-embeddable:1.9.24")
+}
 
 intellij {
-    version.set("2024.1.4")
+    version.set("2023.2.6")
     type.set("IC")
     plugins.set(listOf())
 }
@@ -44,13 +49,5 @@ tasks {
     publishPlugin {
         token.set(System.getenv("PUBLISH_TOKEN"))
     }
-    runIde {
-        jvmArgs = listOf("-Xmx2048m")
-    }
-}
 
-dependencies {
-    implementation(kotlin("stdlib"))
-    implementation ("org.jetbrains:annotations:23.0.0")
-    implementation("org.jetbrains.kotlin:kotlin-scripting-compiler-embeddable:1.9.24")
 }
