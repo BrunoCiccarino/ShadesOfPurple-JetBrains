@@ -23,22 +23,6 @@ That said, there's a bunch of ways you can contribute to this project, like by:
 * 📄 Improving this documentation
 * 🚨 Sharing this project and recommending it to your friends
 
-
-## Contributors
-
-This project exists thanks to all the people who contribute.
-
-<a href="https://github.com/BrunoCiccarino/ShadesOfPurple-JetBrains/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=BrunoCiccarino/ShadesOfPurple-JetBrains&max=24" />
-</a>
-
-## License
-
-<!-- License -->
-  <a href="LICENSE" target="_blank" rel="noopener noreferrer">
-    <img alt="license url" src="https://img.shields.io/badge/license%20-MIT-1C1E26?style=for-the-badge&labelColor=1C1E26&color=61ffca"/>
-  </a>
-
 ## Compatibility
 
 This theme is compatible with the following IDE's:
@@ -66,3 +50,9 @@ RustRover — 2024.1 — 2024.2
 WebStorm — 2023.2 — 2024.2.1
 Writerside — 2024.1
 ```
+
+## License
+
+  <a href="LICENSE" target="_blank" rel="noopener noreferrer">
+    <img alt="license url" src="https://img.shields.io/badge/license%20-MIT-1C1E26?style=for-the-badge&labelColor=1C1E26&color=61ffca"/>
+  </a>
