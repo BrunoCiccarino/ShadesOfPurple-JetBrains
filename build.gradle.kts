@@ -1,7 +1,12 @@
+import com.jetbrains.plugin.structure.base.utils.contentBuilder.buildDirectory
+import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
+import org.jetbrains.changelog.Changelog
+
 plugins {
     id("java")
     id("org.jetbrains.kotlin.jvm") version "1.9.24"
     id("org.jetbrains.intellij") version "1.17.3"
+    id("org.jetbrains.changelog") version "2.0.0"
 }
 
 group = "org.purple"
