@@ -44,6 +44,9 @@ tasks {
     publishPlugin {
         token.set(System.getenv("PUBLISH_TOKEN"))
     }
+    runIde {
+        jvmArgs = listOf("-Xmx2048m")
+    }
 }
 
 dependencies {
