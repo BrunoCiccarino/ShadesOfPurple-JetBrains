@@ -4,6 +4,8 @@
 
 Shades of Purple offers a hand-picked selection of bold and vibrant shades of purple that will transform your code into a visually stunning masterpiece. With its carefully crafted color palette, this theme brings a sense of style, elegance, and whimsy to your favorite code editor, making your coding sessions a delightful journey of creativity. 
 
+<img src="./img/shadesofpurple.jpg">
+
 ## Contribute
 
 That said, there's a bunch of ways you can contribute to this project, like by:

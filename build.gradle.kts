@@ -1,12 +1,7 @@
-import com.jetbrains.plugin.structure.base.utils.contentBuilder.buildDirectory
-import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
-import org.jetbrains.changelog.Changelog
-
 plugins {
     id("java")
     id("org.jetbrains.kotlin.jvm") version "1.9.24"
     id("org.jetbrains.intellij") version "1.17.3"
-    id("org.jetbrains.changelog") version "2.0.0"
 }
 
 group = "org.purple"
@@ -16,9 +11,14 @@ repositories {
     mavenCentral()
 }
 
+dependencies {
+    implementation(kotlin("stdlib"))
+    implementation("org.jetbrains:annotations:23.0.0")
+    implementation("org.jetbrains.kotlin:kotlin-scripting-compiler-embeddable:1.9.24")
+}
 
 intellij {
-    version.set("2024.1.4")
+    version.set("2023.2.6")
     type.set("IC")
     plugins.set(listOf())
 }
@@ -49,13 +49,5 @@ tasks {
     publishPlugin {
         token.set(System.getenv("PUBLISH_TOKEN"))
     }
-    runIde {
-        jvmArgs = listOf("-Xmx2048m")
-    }
-}
 
-dependencies {
-    implementation(kotlin("stdlib"))
-    implementation ("org.jetbrains:annotations:23.0.0")
-    implementation("org.jetbrains.kotlin:kotlin-scripting-compiler-embeddable:1.9.24")
 }
