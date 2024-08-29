@@ -12,7 +12,7 @@ That said, there's a bunch of ways you can contribute to this project, like by:
 * 🪲 Reporting a bug
 * 📄 Improving this documentation
 * 🚨 Sharing this project and recommending it to your friends
-* ✏️ Or you can contribute code by following this <a href="./docs/CONTRIBUTING.md">guide.</a>
+
 
 ## Contributors
 
