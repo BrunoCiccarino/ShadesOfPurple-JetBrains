@@ -15,15 +15,6 @@ That said, there's a bunch of ways you can contribute to this project, like by:
 * 📄 Improving this documentation
 * 🚨 Sharing this project and recommending it to your friends
 
-
-## Contributors
-
-This project exists thanks to all the people who contribute.
-
-<a href="https://github.com/BrunoCiccarino/ShadesOfPurple-JetBrains/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=BrunoCiccarino/ShadesOfPurple-JetBrains&max=24" />
-</a>
-
 ## License
 
 <!-- License -->
