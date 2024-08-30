@@ -22,6 +22,40 @@ Shades Pastel Dark
 
 <img src="./img/shadespasteldark.jpg">
 
+## Install
+
+To install it is very simple, while jetbrains reviews my theme you can install it by following these steps:
+
+* First, go to relases and then look for the last file of the latest version:
+
+<img src="./img/step1.jpg">
+
+* Download the file in the place circled in purple for the latest version of the theme.
+
+<img src="./img/step2.jpg">
+
+* In intellij or in your preferred jetbrains ide, in the upper right corner, click on the gear.
+
+<img src="./img/step3.jpg">
+
+* After clicking on the gear, click on plugins.
+
+<img src="./img/step4.jpg">
+
+* In plugins, click on the other gear, in the upper right field. Then click on install plugin from disk
+
+<img src="./img/step5.jpg">
+
+* Then open this file manager, go to the path where the zipped file is and select it. Then click ok.
+
+<img src="./img/step6.jpg">
+
+* After clicking ok, this screen will appear, and you click on restart the ide.
+
+<img src="./img/step7.jpg">
+
+* After restarting the IDE, just go back to the first gear in the top right corner and select the themes fieldand select your preferred theme.
+
 ## Contribute
 
 That said, there's a bunch of ways you can contribute to this project, like by:
