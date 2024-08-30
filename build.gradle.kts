@@ -5,7 +5,7 @@ plugins {
 }
 
 group = "org.purple"
-version = "1.0-SNAPSHOT"
+version = "1.2-PurpleWorld"
 
 repositories {
     mavenCentral()
