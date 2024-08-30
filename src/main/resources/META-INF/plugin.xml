@@ -11,5 +11,6 @@
     <extensions defaultExtensionNs="com.intellij">
         <themeProvider id="c4521b46-d130-47a7-9bd7-966ea2429864" path="/shadesofpurple.json"/>
         <themeProvider id="9d018316-f1e9-404c-a71a-4623f9ced5be" path="/shadesofpurpledark.json"/>
+        <themeProvider id="fa027763-e24c-40fd-8018-b7bc5d24f4bf" path="/shadesofdracula.json"/>
     </extensions>
 </idea-plugin>
