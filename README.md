@@ -18,6 +18,10 @@ Shades Of Dracula
 
 <img src="./img/shadesofdracula.jpg">
 
+Shades Pastel Dark
+
+<img src="./img/shadespasteldark.jpg">
+
 ## Contribute
 
 That said, there's a bunch of ways you can contribute to this project, like by:
